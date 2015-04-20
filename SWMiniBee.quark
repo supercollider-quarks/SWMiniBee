@@ -6,7 +6,7 @@
 	\organization:		"Concordia University, Montreal",
 	\country: 		"Canada",
 	\helpdoc:		"SWMiniBee.html",
-	\dependencies:		["Arduino"],
+	\dependencies:		["arduino"],
 	\since: 		"2008",
 	\version:		"0.1"
 )
